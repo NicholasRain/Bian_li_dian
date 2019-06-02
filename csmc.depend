@@ -1,0 +1,153 @@
+# depslib dependency file v1.0
+1558184638 source:f:\codeblocks\數呾ん\worker\csmc\commodity.cpp
+	"commodity.h"
+
+1558184639 f:\codeblocks\數呾ん\worker\csmc\commodity.h
+	<string>
+	<map>
+	<iostream>
+
+1558184638 source:f:\codeblocks\數呾ん\worker\csmc\date.cpp
+	"date.h"
+
+1558184638 f:\codeblocks\數呾ん\worker\csmc\date.h
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<string>
+	<cstdio>
+
+1558627640 source:f:\codeblocks\數呾ん\worker\csmc\main.cpp
+	<iostream>
+	<stdio.h>
+	"Comm.h"
+	"order.h"
+	"date.h"
+	"Gou_wu_che.h"
+	"order_guanli.h"
+	"mainmenu.h"
+	<fstream>
+	<vector>
+
+1558185424 source:f:\codeblocks\數呾ん\worker\csmc\src\commodity.cpp
+	"commodity.h"
+
+1558185441 f:\codeblocks\數呾ん\worker\csmc\\commodity.h
+	<string>
+	<map>
+	<iostream>
+
+1558184638 source:f:\codeblocks\數呾ん\worker\csmc\src\date.cpp
+	"date.h"
+
+1558184638 f:\codeblocks\數呾ん\worker\csmc\\date.h
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<string>
+	<cstdio>
+
+1558185441 f:\codeblocks\數呾ん\worker\csmc\include\commodity.h
+	<string>
+	<map>
+	<iostream>
+
+1559375674 f:\codeblocks\數呾ん\worker\csmc\include\date.h
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<string>
+	<cstdio>
+
+1558187631 source:f:\codeblocks\數呾ん\worker\csmc\src\com.cpp
+	"commodity.h"
+
+1558187607 f:\codeblocks\數呾ん\worker\csmc\include\com.h
+	<string>
+	<map>
+	<iostream>
+
+1558702255 source:f:\codeblocks\數呾ん\worker\csmc\src\comm.cpp
+	"Comm.h"
+
+1559368852 f:\codeblocks\數呾ん\worker\csmc\include\comm.h
+	<string>
+	<map>
+	<iostream>
+
+1559320206 source:f:\codeblocks\數呾ん\worker\csmc\src\order.cpp
+	"order.h"
+
+1559368853 f:\codeblocks\數呾ん\worker\csmc\include\order.h
+	<iostream>
+	"date.h"
+	<string>
+	"Comm.h"
+	<vector>
+	<iomanip>
+
+1559370085 source:f:\codeblocks\數呾ん\worker\csmc\src\gou_wu_che.cpp
+	"Gou_wu_che.h"
+
+1559368852 f:\codeblocks\數呾ん\worker\csmc\include\gou_wu_che.h
+	"order.h"
+	"Comm.h"
+	"Bian_li_dian.h"
+	<iostream>
+	<iomanip>
+
+1559372236 source:f:\codeblocks\數呾ん\worker\csmc\src\order_guanli.cpp
+	"order_guanli.h"
+
+1558627047 source:f:\codeblocks\數呾ん\worker\csmc\src\guan_li_yuan.cpp
+	"Guan_li_yuan.h"
+
+1559368852 f:\codeblocks\數呾ん\worker\csmc\include\guan_li_yuan.h
+	<iostream>
+	<string>
+
+1559368852 source:f:\codeblocks\數呾ん\worker\csmc\src\bian_li_dian.cpp
+	"Bian_li_dian.h"
+
+1558630612 f:\codeblocks\數呾ん\worker\csmc\include\bian_li_dian.h
+	"Comm.h"
+	<fstream>
+	<vector>
+
+1559368852 f:\codeblocks\數呾ん\worker\csmc\include\order_guanli.h
+	"order.h"
+	"Comm.h"
+	"date.h"
+	"Bian_li_dian.h"
+	<iostream>
+	<iomanip>
+	<fstream>
+	<vector>
+
+1559368852 f:\codeblocks\數呾ん\worker\csmc\include\mainmenu.h
+	"order_guanli.h"
+	"Gou_wu_che.h"
+	"Guan_li_yuan.h"
+	"Comm_guanli.h"
+	<string>
+	<iostream>
+
+1559368852 source:f:\codeblocks\數呾ん\worker\csmc\src\mainmenu.cpp
+	"mainmenu.h"
+	"Guan_li_yuan.h"
+
+1559368852 f:\codeblocks\數呾ん\worker\csmc\include\comm_guanli.h
+	"Bian_li_dian.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+
+1559320970 source:f:\codeblocks\數呾ん\worker\csmc\src\comm_guanli.cpp
+	"Comm_guanli.h"
+
+1559361980 source:f:\codeblocks\數呾ん\worker\csmc\src\import_comm.cpp
+	"Import_comm.h"
+
+1559368852 f:\codeblocks\數呾ん\worker\csmc\include\import_comm.h
+	"Comm.h"
+
